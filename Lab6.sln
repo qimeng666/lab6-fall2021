@@ -5,16 +5,20 @@ VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalculator", "Lab6\TipCalculator.csproj", "{FF457A2F-9259-480A-925B-0908C593B33A}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Lab8", "Lab8\Lab8.vdproj", "{7C52A3B7-8BFC-4ADF-B855-EA5F9F2F0DFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FF457A2F-9259-480A-925B-0908C593B33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FF457A2F-9259-480A-925B-0908C593B33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF457A2F-9259-480A-925B-0908C593B33A}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{FF457A2F-9259-480A-925B-0908C593B33A}.Debug|Any CPU.Build.0 = Release|Any CPU
 		{FF457A2F-9259-480A-925B-0908C593B33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF457A2F-9259-480A-925B-0908C593B33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C52A3B7-8BFC-4ADF-B855-EA5F9F2F0DFC}.Debug|Any CPU.ActiveCfg = Release
+		{7C52A3B7-8BFC-4ADF-B855-EA5F9F2F0DFC}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
