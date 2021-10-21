@@ -1,0 +1,10 @@
+C:\Users\10575\source\repos\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\10575\source\repos\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\10575\source\repos\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\10575\source\repos\Lab6\Lab6\obj\Debug\TipCalculator.csproj.AssemblyReference.cache
+C:\Users\10575\source\repos\Lab6\Lab6\obj\Debug\Lab6.Form1.resources
+C:\Users\10575\source\repos\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\10575\source\repos\Lab6\Lab6\obj\Debug\TipCalculator.csproj.GenerateResource.cache
+C:\Users\10575\source\repos\Lab6\Lab6\obj\Debug\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\10575\source\repos\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\10575\source\repos\Lab6\Lab6\obj\Debug\Lab6.pdb
